@@ -2,7 +2,7 @@
 
 ## Description
 
-This code contain the making of webpage for Horiseon Social Services.
+This code contain the making of webpage for Horiseon Social Services. https://lizziebumpers.github.io/live-and-learn/
 
 This webpage is designed to help understand how the internet and business growth can be used together.
 
