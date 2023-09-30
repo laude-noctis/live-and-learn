@@ -10,9 +10,8 @@ I contributed by making the HTML code more organzied and in a semantic order and
 
 I, then, went into style.css and reattched the styling with the new semantic order and consolidated the css styling coding.
 
+![photo of the webpage](assets/images/Screenshot.png)
 
 ## Credits
 Source code: https://github.com/coding-boot-camp/urban-octo-telegram
 Its location is in the index.html and style.css
-
-![photo of the webpage](.assets/images/Screenshot(15).png)
