@@ -14,3 +14,5 @@ I, then, went into style.css and reattched the styling with the new semantic ord
 ## Credits
 Source code: https://github.com/coding-boot-camp/urban-octo-telegram
 Its location is in the index.html and style.css
+
+![photo of the webpage](.assets/images/Screenshot(15).png)
